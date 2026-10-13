@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa-bin-mahmud" alt="huzaifa-bin-mahmud" /></a> </p>
 
-- 🔭 I’m currently working on [Data Analysis](https://colab.research.google.com/drive/1fSrSWrY1iwKQPZFRy8hc_Smy-0bBPn8B)
+- 🔭 I’m currently working on [Full stack web development]
 
 - 🌱 I’m currently learning **Mern Stack Web Devlopment**
 
